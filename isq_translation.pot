@@ -1,0 +1,204 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Infinity Squared\n"
+"POT-Creation-Date: 2013-08-14 14:29+0100\n"
+"PO-Revision-Date: 2013-08-14 14:29+0100\n"
+"Last-Translator: Tom Slominski <me@tomslominski>\n"
+"Language-Team: Tom Slominski <me@tomslominski.net>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: yourls__;yourls_e;yourls_s;yourls_se;"
+"yourls_esc_attr__;yourls_esc_html__;yourls_x;yourls_ex;yourls_esc_attr_x;"
+"yourls_esc_html_x;yourls_n:1,2;yourls_nx:1,2;yourls_n_noop:1,2;"
+"yourls_nx_noop:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: index.php:107
+msgid "QR code"
+msgstr ""
+
+#: index.php:107
+msgid "Share your link with external devices"
+msgstr ""
+
+#: index.php:109
+msgid "Original URL:"
+msgstr ""
+
+#: index.php:110
+msgid "Short URL:"
+msgstr ""
+
+#. translators: This is short for statistics
+#: index.php:112
+msgid "Stats:"
+msgstr ""
+
+#: index.php:113
+msgid "Click on a link and press Ctrl+C to quickly copy it"
+msgstr ""
+
+#: index.php:114
+msgid "Share"
+msgstr ""
+
+#: index.php:115
+msgid "Share your short URL"
+msgstr ""
+
+#: index.php:119
+msgid "An error has occured :("
+msgstr ""
+
+#: index.php:121
+msgid "added to database"
+msgstr ""
+
+#: index.php:122
+msgid "URL shortened successfully"
+msgstr ""
+
+#: index.php:122
+msgid "View the details of your short URL below."
+msgstr ""
+
+#: index.php:123
+msgid "already exists in database"
+msgstr ""
+
+#: index.php:124
+msgid ""
+"This URL already exists in this database. This website does not allow a "
+"single URL to have multiple short links."
+msgstr ""
+
+#: index.php:125
+msgid "Short URL"
+msgstr ""
+
+#: index.php:125
+msgid "already exists in database or is reserved"
+msgstr ""
+
+#: index.php:126
+msgid ""
+"This short URL already exists in this database or is reserved. This website "
+"does not allow a single URL to have multiple short links. It could've also "
+"been reserved by the admin."
+msgstr ""
+
+#: index.php:127
+msgid "Missing URL input"
+msgstr ""
+
+#: index.php:128
+msgid ""
+"You did not enter the URL you want to shorten or the server lost it. Please "
+"try again."
+msgstr ""
+
+#: index.php:129
+msgid "This URL is a short URL"
+msgstr ""
+
+#: index.php:130
+msgid "You cannot shorten a short URL!"
+msgstr ""
+
+#: index.php:159
+msgid "Enter a new URL to shorten"
+msgstr ""
+
+#: index.php:160
+msgid "Hover over the labels to see more information"
+msgstr ""
+
+#: index.php:161
+msgid "Long URL (required):"
+msgstr ""
+
+#: index.php:162
+msgid "Paste the long URL here"
+msgstr ""
+
+#: index.php:163
+msgid "Custom keyword:"
+msgstr ""
+
+#: index.php:164
+msgid "A keyword replaces the default short string"
+msgstr ""
+
+#: index.php:165
+msgid "Optional title:"
+msgstr ""
+
+#: index.php:166
+msgid "Optional title used when sharing a link from YOURLS"
+msgstr ""
+
+#: index.php:167
+msgid "Shorten"
+msgstr ""
+
+#: index.php:185
+msgid "The bookmarklets"
+msgstr ""
+
+#: index.php:186
+msgid ""
+"To use the bookmarklets drag them to your bookmark bar or simply right click "
+"on them and select the appropriate option."
+msgstr ""
+
+#: index.php:188
+msgid ""
+"Shortens the URL of the current site and opens a new tab with the details of "
+"the shortened URL."
+msgstr ""
+
+#: index.php:188
+msgid "Simple Shorten"
+msgstr ""
+
+#: index.php:189
+msgid "Opens a pop up with the short URL for the current page."
+msgstr ""
+
+#: index.php:189
+msgid "Instant Shorten"
+msgstr ""
+
+#: index.php:190
+msgid ""
+"Opens a popup which asks for the keyword for the current URL and opens a new "
+"tab with the details of the shortened URL."
+msgstr ""
+
+#: index.php:190
+msgid "Custom Shorten"
+msgstr ""
+
+#: index.php:191
+msgid ""
+"This prompts you for the keyword for the current page and then opens a pop "
+"up with the short URL of the current page."
+msgstr ""
+
+#: index.php:191
+msgid "Instant Custom Shorten"
+msgstr ""
+
+#: index.php:195
+msgid ""
+"Powered by <a href=\"http://yourls.org/\">YOURLS</a>. Design by <a href="
+"\"http://tomslominski.net/\">Tom Slominski</a>. Also used: <a href=\"http://"
+"formalize.me/\">Formalize</a> and <a href=\"http://qtip2.com/\">qTip²</a>. "
+"Find this theme on <a href=\"https://github.com/tomslominski/infinity-squared"
+"\">GitHub</a>."
+msgstr ""
